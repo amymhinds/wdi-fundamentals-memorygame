@@ -19,6 +19,7 @@ border-color: white;
 body {
 text-align: center;
 }
+button {background-color: red;}
 title {color: #0D2C40;
 	text-transform: uppercase;
 	font-family: "raleway";
